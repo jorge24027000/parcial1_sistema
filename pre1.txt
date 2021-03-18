@@ -1,2 +1,1 @@
-2 -- sistema abierto sistema termodinamico, sistema solar, sistema operativo
-sistema cerrado: olla de presion, ecosistema hibrido, botella con agua
+3 --  pues tendriamos un mal funcionamiento de sistema si por que no tendria una buena vision en el desempeño
