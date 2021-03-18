@@ -1,1 +1,1 @@
-4 --  una buena organizacion 
+5--  mecanismo de controles
