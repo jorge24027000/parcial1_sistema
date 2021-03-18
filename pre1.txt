@@ -1,1 +1,2 @@
-1 -- es un conjunto de elementos que se relaciona para funcion como un todo
+2 -- sistema abierto sistema termodinamico, sistema solar, sistema operativo
+sistema cerrado: olla de presion, ecosistema hibrido, botella con agua
